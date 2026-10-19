@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fruit Bot</string>
+    <string name="acc_desc">Fruit Bot sirf screen par tap karta hai, jab fruit knife ke raaste mein aata hai.</string>
+</resources>
